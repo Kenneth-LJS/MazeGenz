@@ -1,2 +1,5 @@
 # MazeGenz
-Maze generator for mazes of multiple dimensions
+
+A maze generator for mazes of multiple dimensions.
+
+Currently WIP.
